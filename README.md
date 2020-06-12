@@ -16,4 +16,4 @@ V restavraciji je jedilnica v drugem nadstropju kot kuhinja. Zato je vgrajeno dv
 ![Breadboard vezje](https://github.com/OskarMajcen/Dvigalo-za-tovorjenje-hrane-1/blob/master/breadboard%20vezje.png)
 
 **Shematsko vezje:**
-![Shematsko vezje](https://github.com/OskarMajcen/Dvigalo-za-tovorjenje-hrane-1/blob/master/shematskovezje.png)
+![Shematsko vezje](https://github.com/OskarMajcen/Dvigalo-za-tovorjenje-hrane-1/blob/master/shematsko%20vezje.png)
